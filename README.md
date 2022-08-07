@@ -1,5 +1,4 @@
 # kinetic-loader
-kinetic-loader
 
 ## Usage
 
